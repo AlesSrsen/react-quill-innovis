@@ -1,12 +1,12 @@
 {
-  "name": "react-quill",
-  "version": "2.0.0",
+  "name": "react-quill-innovis",
+  "version": "2.0.1",
   "description": "The Quill rich-text editor as a React component.",
-  "author": "zenoamaro <zenoamaro@gmail.com>",
+  "author": "Aleš Sršeň <al.srsen@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/zenoamaro/react-quill",
-  "bugs": "https://github.com/zenoamaro/react-quill/issues",
-  "repository": "https://github.com/zenoamaro/react-quill.git",
+  "homepage": "https://github.com/AlesSrsen/react-quill-innovis",
+  "bugs": "https://github.com/AlesSrsen/react-quill-innovis/issues",
+  "repository": "https://github.com/AlesSrsen/react-quill-innovis.git",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
